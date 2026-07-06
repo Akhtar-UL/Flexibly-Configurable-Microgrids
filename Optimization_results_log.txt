@@ -1,0 +1,29 @@
+
+============================================================
+Optimization run: 06-Jul-2026 16:12:26
+Objective cost: 10511.399282
+
+Uncertainty settings
+Load AC: mode=Deterministic, level=0.1000, scen=10, rho=0.7000, gamma=6.0000
+Load DC: mode=Deterministic, level=0.1000, scen=10, rho=0.7000, gamma=6.0000
+PV   AC: mode=Deterministic, level=0.1000, scen=10, rho=0.7000, gamma=6.0000
+PV   DC: mode=Deterministic, level=0.1000, scen=10, rho=0.7000, gamma=6.0000
+Wind AC: mode=Deterministic, level=0.1000, scen=10, rho=0.7000, gamma=6.0000
+Wind DC: mode=Deterministic, level=0.1000, scen=10, rho=0.7000, gamma=6.0000
+
+DR and EV settings
+DR AC: enabled=0, shiftable_pct=0.00
+DR DC: enabled=0, shiftable_pct=0.00
+EV count AC: 1
+EV count DC: 1
+
+Key optimization results
+Grid import energy (kWh): 297.261881
+Grid export energy (kWh): 81.752209
+PV curtailment AC/DC (kWh): 0.000000 / 0.000000
+Wind curtailment AC/DC (kWh): 0.000000 / 0.000000
+Load shed AC CL/NL (kWh): 0.000000 / 0.000000
+Load shed DC CL/NL (kWh): 0.000000 / 0.000000
+BESS throughput AC/DC (kWh): 0.000000 / 0.000000
+EV throughput AC/DC (kWh): 0.000000 / 0.000000
+Peak served load AC/DC (kW): 23.775510 / 19.183673

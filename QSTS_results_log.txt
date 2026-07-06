@@ -1,0 +1,13 @@
+
+============================================================
+QSTS run: 06-Jul-2026 16:12:47
+Test system: IEEE 13
+PCC bus: 611
+Vmin (pu): 0.949936
+Vmax (pu): 1.049804
+Avg losses (kW): 114.297994
+Max line loading (%): 88.830035
+Worst line amps: 532.980210
+Max transformer loading (%): 100.929762
+Worst transformer kVA: 504.648812
+Voltage spread max(Vmax-Vmin) (pu): 0.099858
